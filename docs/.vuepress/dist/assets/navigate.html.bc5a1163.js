@@ -1,0 +1,1 @@
+const e={key:"v-03676309",path:"/react-router/navigate.html",title:"\u7F16\u7A0B\u5F0F\u5BFC\u822A",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5B9E\u73B0",slug:"\u5B9E\u73B0",children:[]}],filePathRelative:"react-router/navigate.md"};export{e as data};

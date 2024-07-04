@@ -1,0 +1,1 @@
+const e={key:"v-229fd6e7",path:"/react-router/useRoutes.html",title:"\u901A\u8FC7\u8DEF\u7531\u8868\u5B9A\u4E49\u8DEF\u7531\u89C4\u5219",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"useRoutes",slug:"useroutes",children:[]}],filePathRelative:"react-router/useRoutes.md"};export{e as data};

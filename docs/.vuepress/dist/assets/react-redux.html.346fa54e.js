@@ -1,0 +1,1 @@
+const e={key:"v-9cb79932",path:"/redux/react-redux.html",title:"react-redux",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"react-redux \u4E2D\u7684\u6838\u5FC3 API",slug:"react-redux-\u4E2D\u7684\u6838\u5FC3-api",children:[]}],filePathRelative:"redux/react-redux.md"};export{e as data};
